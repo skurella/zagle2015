@@ -7,7 +7,7 @@
 - Hator
 - Leoniak
 - Murzyn
+- Przembot
 - Żyła
 
 ### Wątpiący
-- Przembot
