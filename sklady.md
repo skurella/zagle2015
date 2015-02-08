@@ -5,9 +5,15 @@
 ### Wierzący
 - Buoto
 - Hator
+- Jagoda
+- KrzyStar
 - Leoniak
 - Murzyn
 - Przembot
 - Żyła
 
-### Wątpiący
+### Niezdecydowani
+- Asia
+- Claudia
+- Lidia
+- Ola
