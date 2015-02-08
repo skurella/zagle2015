@@ -3,17 +3,19 @@
 ## Chętni
 
 ### Wierzący
+- Adrianna
 - Buoto
 - Hator
 - Jagoda
 - KrzyStar
 - Leoniak
+- Lidia
 - Murzyn
-- Przembot
+- Natalia (na tydzień)
+- Przembot (na tydzień)
 - Żyła
 
 ### Niezdecydowani
 - Asia
 - Claudia
-- Lidia
 - Ola
