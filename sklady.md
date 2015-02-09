@@ -4,6 +4,7 @@
 
 - Adrianna
 - Buoto
+- Claudia
 - Hator
 - Jagoda
 - KrzyStar
@@ -17,4 +18,3 @@
 
 ### ?
 - Asia
-- Claudia
