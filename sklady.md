@@ -1,8 +1,7 @@
 # Składy
 
-## Chętni
+### Chętni
 
-### Wierzący
 - Adrianna
 - Buoto
 - Hator
@@ -12,10 +11,10 @@
 - Lidia
 - Murzyn
 - Natalia (na tydzień)
+- Ola
 - Przembot (na tydzień)
 - Żyła
 
-### Niezdecydowani
+### ?
 - Asia
 - Claudia
-- Ola
