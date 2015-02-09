@@ -3,6 +3,7 @@
 ### Chętni
 
 - Adrianna
+- Asia
 - Buoto
 - Claudia
 - Hator
@@ -15,6 +16,3 @@
 - Ola
 - Przembot (na tydzień)
 - Żyła
-
-### ?
-- Asia
