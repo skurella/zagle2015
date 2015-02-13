@@ -14,5 +14,6 @@
 - Murzyn
 - Natalia (na tydzień)
 - Ola
+- Patrol
 - Przembot (na tydzień)
 - Żyła
