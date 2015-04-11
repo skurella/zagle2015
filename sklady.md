@@ -1,19 +1,19 @@
 # Składy
 
-### Chętni
+## ORP Jan Paweł II
 
+- Hator
 - Adrianna
+- KrzyStar
+- Patrol ?
+- Przembot (na 2. tydzień)
+
+## ORP Stachu Jones
+
+- Murzyn
 - Asia
 - Buoto
-- Claudia
-- Hator
-- Jagoda
-- KrzyStar
 - Leoniak
-- Lidia
-- Murzyn
-- Natalia (na tydzień)
 - Ola
-- Patrol
-- Przembot (na tydzień)
+- Tosia (na 2. tydzień)
 - Żyła
