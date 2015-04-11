@@ -1,3 +1,20 @@
+**Phobos 25 SKS**
+
+http://spid.mazury.info.pl/?phobos-25-sks-,35
+
+Jacht z 2012 roku, długość kadłuba 7.49 m, masa 2100 kg.
+Posiada 6 + 2 koje, radio i lodówkę.
+
+
+**Antila 27 Rafa**
+
+http://spid.mazury.info.pl/?antila-27-rafa-,18
+
+Jacht z 2013, długość kadłuba 8.24 m.
+Posiada 8 + 2 koje, radio i lodówkę.
+
+**Lista dostępnych jachtów z lutego**
+
 | Jacht                          |Dostępny|Rok budowy|Cena|
 |--------------------------------|--------|----------|----|
 | COBRA 33 "RUMBA"               |        |          |    |
