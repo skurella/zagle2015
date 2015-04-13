@@ -99,7 +99,6 @@ SZANTY:
  Do wydrukowania:
  - Bitwa
  - Chłopcy z Botany Bay
- - Odrażający drab
  - Marco Polo
  - Pożegnanie Liverpoolu
  - 16 ton
@@ -111,8 +110,16 @@ SZANTY:
  - Pieśń harpunników
  - Bijatyka
  - Grenlandcy wielorybnicy
-
- - Northwest Passage
+ - Może, moje morze (Morze Bałtyckie)
+ - Mona?
+ - 10 w skali Beauforta
+ - Stary Bryg
+ - Bosman
+ - Fiddlers Green
+ - Stara Maui
+ - Pożegnalny ton
+ 
+ - Northwest Passage (po polskiemu też jest, taki sam tytuł)
           D        A            G        Bm
   Ah, for just one time I would take the Northwest Passage
      G                D                 A                G
@@ -127,6 +134,12 @@ Poezja;
  - Bez imienia (Ankh)
  - Do prostego człowieka - Tuwim
  - Dziady
+
+Kabaret:
+ - Odrażający drab
+ 
+ Ogniskowo-biesiadne:
+  - Bolero xD
 
 Kaczmarski:
 
