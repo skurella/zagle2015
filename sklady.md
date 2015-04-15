@@ -5,7 +5,7 @@
 - Hator
 - Adrianna
 - KrzyStar
-- Patrol ?
+- Marika
 - Przembot (na 2. tydzień)
 
 ## ORP Stachu Jones
