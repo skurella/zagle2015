@@ -11,9 +11,10 @@
 ## ORP Stachu Jones
 
 - Murzyn
-- Asia
+- Asia (na 2. tydzień)
 - Buoto
 - Leoniak
+- Mysza
 - Ola
 - Tosia (na 2. tydzień)
 - Żyła
